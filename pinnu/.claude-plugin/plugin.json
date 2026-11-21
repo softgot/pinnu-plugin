@@ -1,0 +1,20 @@
+{
+  "name": "pinnu",
+  "displayName": "Pinnu",
+  "version": "1.1.0",
+  "description": "Your Pinnu notes and checklists in Claude: search, read many at once, write in Markdown, tick items, set reminders and look at attached pictures and PDFs. Every change is marked and can be undone in the app.",
+  "author": {
+    "name": "Kristian Mörling",
+    "email": "contact@pinnu.app",
+    "url": "https://pinnu.app"
+  },
+  "homepage": "https://pinnu.app",
+  "repository": "https://github.com/softgot/pinnu-plugin",
+  "license": "MIT",
+  "keywords": ["notes", "checklists", "markdown", "google keep", "reminders", "productivity"],
+  "icon": "./assets/logo.png",
+  "documentationUrl": "https://pinnu.app/koppla-ai",
+  "supportUrl": "https://pinnu.app/impressum",
+  "privacyPolicyUrl": "https://pinnu.app/integritet",
+  "termsOfServiceUrl": "https://pinnu.app/villkor"
+}

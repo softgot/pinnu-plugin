@@ -1,0 +1,18 @@
+{
+  "name": "pinnu",
+  "owner": {
+    "name": "Kristian Mörling",
+    "email": "contact@pinnu.app"
+  },
+  "metadata": {
+    "description": "Pinnu: notes and checklists on a board, readable and writable by Claude."
+  },
+  "plugins": [
+    {
+      "name": "pinnu",
+      "source": "./pinnu",
+      "description": "Read, search and write your Pinnu notes and checklists from Claude.",
+      "category": "productivity"
+    }
+  ]
+}

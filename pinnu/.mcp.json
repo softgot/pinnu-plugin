@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "pinnu": {
+      "type": "http",
+      "url": "https://pinnu.app/mcp"
+    }
+  }
+}
